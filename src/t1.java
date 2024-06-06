@@ -7,6 +7,7 @@ public class t1 {
         System.out.println("测试测试s");
 
         System.out.println("1222222");
+        System.out.println("4444444444");
 
     }
 }
